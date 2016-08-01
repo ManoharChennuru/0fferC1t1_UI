@@ -1,0 +1,21 @@
+{
+  "curly": true,
+  "noarg": true,
+  "eqnull": true,
+  "trailing": true,
+  "undef":true,
+  "jasmine": true,
+  "sub": true,
+  "globals": {
+    "window": true,
+    "document": true,
+    "angular": true,
+    "moment": true,
+    "inject": true,
+    "module": true,
+    "confirm": true,
+    "alert": true,
+    "FormData": true,
+    "XMLHttpRequest": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extends": "offerciti",
+  "plugins": ["angular"],
+  "rules": {
+    "no-var": 0,
+    "angular/di-unused": 2,
+    "angular/no-http-callback": 2
+  },
+  "globals": {
+  }
+}

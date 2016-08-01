@@ -1,0 +1,27 @@
+{
+  "name": "angular-numbro",
+  "author": "Robert Baker",
+  "version": "1.5.1",
+  "license": "MIT",
+  "main": ["dist/angular-numbro.min.js"],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:robertbaker/angular-numbro.git"
+  },
+  "dependencies": {
+    "numbro": "^1.5.1"
+  },
+  "keywords": [
+    "numbro",
+    "numbrojs",
+    "angular",
+    "angularjs"
+  ],
+  "ignore": [
+    "src",
+    "test",
+    "bower_components",
+    "bower.json",
+    "gruntfile.js"
+  ]
+}
